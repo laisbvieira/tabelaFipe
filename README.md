@@ -1,8 +1,8 @@
-🚗 Tabela FIPE - Consulta de Preços de Veículos
+# 🚗 Tabela FIPE - Consulta de Preços de Veículos
 
 Este projeto em Java permite consultar os valores de veículos (carros, motos e caminhões) na Tabela FIPE, utilizando a API Parallelum FIPE.
 
-📌 Tecnologias Utilizadas
+### 📌 Tecnologias Utilizadas
 
 Java 17+
 
@@ -12,7 +12,7 @@ Jackson (para conversão de JSON)
 
 Consumo de APIs REST com HttpURLConnection
 
-🚀 Funcionalidades
+### 🚀 Funcionalidades
 
 Selecionar o tipo de veículo: Carro, Moto ou Caminhão.
 
@@ -24,7 +24,7 @@ Filtrar modelos pelo nome.
 
 Consultar valores de mercado com base no ano do veículo.
 
-📦 Como Executar o Projeto
+### 📦 Como Executar o Projeto
 
 1️⃣ Clonar o repositório
 
