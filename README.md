@@ -6,7 +6,7 @@ Este projeto em Java permite consultar os valores de veículos (carros, motos e 
 
 Java 17+
 
-Spring Boot (se aplicável no futuro)
+Spring Boot
 
 Jackson (para conversão de JSON)
 
